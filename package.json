@@ -1,0 +1,42 @@
+{
+    "name": "emerald-sky",
+    "displayName": "Emerald Sky",
+    "description": "Dark with shades of green",
+    "publisher": "willasm",
+	"author": {
+		"name": "William McKeever"
+	},
+	"license": "MIT - SEE LICENSE IN LICENSE.md",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+	"icon": "images/icon.png",
+	"keywords": [
+		"emerald",
+		"sky",
+        "dark",
+        "theme"
+    ],
+	"bugs": {
+		"url": "https://github.com/willasm/emerald-sky/issues",
+		"email": "willmck63@gmail.com"
+	},
+	"homepage": "https://github.com/willasm/emerald-sky",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/willasm/emerald-sky.git"
+	},
+    "contributes": {
+        "themes": [
+            {
+                "label": "Emerald Sky",
+                "uiTheme": "vs-dark",
+                "path": "./themes/emerald-sky-color-theme.json"
+            }
+        ]
+    }
+}
