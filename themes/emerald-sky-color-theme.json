@@ -876,7 +876,7 @@
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#cdb16f"
       }
     },
@@ -884,7 +884,7 @@
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#4faeb8"
       }
     },
@@ -1943,15 +1943,15 @@
     "sideBarSectionHeader.foreground": "#cccccc",
     "sideBarSectionHeader.border": "#cccccc33",
     "sideBarTitle.foreground": "#bbbbbb",
-    "list.inactiveSelectionBackground": "#37373d",
+    "list.inactiveSelectionBackground": "#39473f",
     "list.inactiveSelectionForeground": "#cccccc",
-    "list.hoverBackground": "#2a2d2e",
+    "list.hoverBackground": "#193928",
     "list.hoverForeground": "#cccccc",
     "list.activeSelectionBackground": "#09716c",
     "list.activeSelectionForeground": "#ffffff",
     "tree.indentGuidesStroke": "#585858",
-    "list.dropBackground": "#383b3d",
-    "list.highlightForeground": "#5bcfa9",
+    "list.dropBackground": "#4f6963",
+    "list.highlightForeground": "#3e8c72",
     "list.focusBackground": "#2d6062",
     "list.focusForeground": "#cccccc",
     "listFilterWidget.background": "#653723",
