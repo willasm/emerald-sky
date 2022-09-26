@@ -592,7 +592,7 @@
     },
     {
       "name": "Operators",
-      "scope": "keyword.operator",
+      "scope": "keyword.operator.rcscript",
       "settings": {
         "foreground": "#d4d4d4"
       }
@@ -616,6 +616,48 @@
       "scope": "keyword",
       "settings": {
         "foreground": "#cfd39b"
+      }
+    },
+    {
+      "name": "Keywords",
+      "scope": "keyword.control",
+      "settings": {
+        "foreground": "#edb488"
+      }
+    },
+    {
+      "name": "Keywords",
+      "scope": "keyword.operator",
+      "settings": {
+        "foreground": "#548dcb"
+      }
+    },
+    {
+      "name": "Keywords",
+      "scope": "keyword.other",
+      "settings": {
+        "foreground": "#4b9a7f"
+      }
+    },
+    {
+      "name": "Storage",
+      "scope": "storage",
+      "settings": {
+        "foreground": "#126348"
+      }
+    },
+    {
+      "name": "Storage",
+      "scope": "storage.type",
+      "settings": {
+        "foreground": "#8e6bc6"
+      }
+    },
+    {
+      "name": "Storage",
+      "scope": "storage.modifier",
+      "settings": {
+        "foreground": "#eea2ef"
       }
     },
     {
@@ -733,13 +775,6 @@
       }
     },
     {
-      "name": "Keyword Control",
-      "scope": "keyword.control",
-      "settings": {
-        "foreground": "#cfd39b"
-      }
-    },
-    {
       "name": "Control Elements",
       "scope": "control.elements, keyword.operator.less",
       "settings": {
@@ -751,13 +786,6 @@
       "scope": "keyword.other.special-method",
       "settings": {
         "foreground": "#cdb16f"
-      }
-    },
-    {
-      "name": "Storage",
-      "scope": "storage",
-      "settings": {
-        "foreground": "#cfd39b"
       }
     },
     {
