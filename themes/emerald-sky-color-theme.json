@@ -592,7 +592,7 @@
     },
     {
       "name": "Operators",
-      "scope": "keyword.operator.rcscript",
+      "scope": "keyword.operator",
       "settings": {
         "foreground": "#d4d4d4"
       }
@@ -627,7 +627,7 @@
     },
     {
       "name": "Keywords",
-      "scope": "keyword.operator",
+      "scope": "keyword.operator.rcscript",
       "settings": {
         "foreground": "#548dcb"
       }
