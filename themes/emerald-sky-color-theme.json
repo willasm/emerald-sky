@@ -634,6 +634,13 @@
     },
     {
       "name": "Keywords",
+      "scope": "keyword.operator.virtualkeys.rcscript",
+      "settings": {
+        "foreground": "#0eabb0"
+      }
+    },
+    {
+      "name": "Keywords",
       "scope": "keyword.other",
       "settings": {
         "foreground": "#4b9a7f"
