@@ -622,7 +622,28 @@
       "name": "Keywords",
       "scope": "keyword.control",
       "settings": {
-        "foreground": "#edb488"
+        "foreground": "#e7cb65"
+      }
+    },
+    {
+      "name": "Keywords",
+      "scope": "keyword.control.rcscript",
+      "settings": {
+        "foreground": "#e7cb65"
+      }
+    },
+    {
+      "name": "Keywords",
+      "scope": "keyword.control.class.rcscript",
+      "settings": {
+        "foreground": "#2db190"
+      }
+    },
+    {
+      "name": "Keywords",
+      "scope": "keyword.control.type.rcscript",
+      "settings": {
+        "foreground": "#4fc4a5"
       }
     },
     {
@@ -641,9 +662,44 @@
     },
     {
       "name": "Keywords",
+      "scope": "keyword.storage.modifier.user.defined.rcscript",
+      "settings": {
+        "foreground": "#3baac1"
+      }
+    },
+    {
+      "name": "Keywords",
+      "scope": "keyword.storage.type.versioninfo.rcscript",
+      "settings": {
+        "foreground": "#346faa"
+      }
+    },
+    {
+      "name": "Keywords",
       "scope": "keyword.other",
       "settings": {
         "foreground": "#4b9a7f"
+      }
+    },
+    {
+      "name": "Keywords",
+      "scope": "keyword.other.styles.control.rcscript",
+      "settings": {
+        "foreground": "#5fd5b0"
+      }
+    },
+    {
+      "name": "Keywords",
+      "scope": "keyword.other.styles.window.rcscript",
+      "settings": {
+        "foreground": "#84b6d5"
+      }
+    },
+    {
+      "name": "Keywords",
+      "scope": "keyword.other.exstyles.rcscript",
+      "settings": {
+        "foreground": "#817dca"
       }
     },
     {
@@ -658,6 +714,20 @@
       "scope": "storage.type",
       "settings": {
         "foreground": "#8e6bc6"
+      }
+    },
+    {
+      "name": "Storage",
+      "scope": "keyword.storage.type.font.rcscript",
+      "settings": {
+        "foreground": "#fba5fa"
+      }
+    },
+    {
+      "name": "Storage",
+      "scope": "keyword.storage.type.resources.rcscript",
+      "settings": {
+        "foreground": "#078a70"
       }
     },
     {
