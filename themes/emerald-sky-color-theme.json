@@ -648,14 +648,14 @@
     },
     {
       "name": "Keywords",
-      "scope": "keyword.operator.rcscript",
+      "scope": "keyword.other.rcscript",
       "settings": {
         "foreground": "#548dcb"
       }
     },
     {
       "name": "Keywords",
-      "scope": "keyword.operator.virtualkeys.rcscript",
+      "scope": "keyword.other.virtualkeys.rcscript",
       "settings": {
         "foreground": "#0eabb0"
       }
