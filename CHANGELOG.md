@@ -4,10 +4,10 @@ All notable changes to the "shades-of-green" extension will be documented in thi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [1.0.0]
 # Change Log
 <!--
-### [Unreleased]
+### [1.0.0]
 ### Added
 ### Changed
 ### Deprecated
