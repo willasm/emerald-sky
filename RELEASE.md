@@ -2,6 +2,8 @@
 
 <!-- ## [v-inc] ${YEAR4}-${MONTHNUMBER}-${DATE} -->
 
+## [1.0.0] 2022-10-03
+- Initial release
 
 For a full list of changes, please see the projects [Changelog](CHANGELOG.md) file.
 

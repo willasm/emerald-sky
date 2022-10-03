@@ -1,13 +1,13 @@
 {
     "name": "emerald-sky",
     "displayName": "Emerald Sky",
-    "description": "Dark with shades of green",
+    "description": "Dark theme with shades of green",
     "publisher": "willasm",
 	"author": {
 		"name": "William McKeever"
 	},
 	"license": "MIT - SEE LICENSE IN LICENSE.md",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.66.0"
     },
