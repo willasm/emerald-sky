@@ -12,6 +12,10 @@
 
 <!-- ## [v-inc] ${YEAR4}-${MONTHNUMBER}-${DATE} -->
 
+## [1.0.2] 2023-01-16
+### Changed
+- Tweaked find match highlighting
+
 ## [1.0.1] 2022-10-03
 ### Fixed
 - Change Log formatting
