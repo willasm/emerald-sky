@@ -2,6 +2,11 @@
 
 <!-- ## [v-inc] ${YEAR4}-${MONTHNUMBER}-${DATE} -->
 
+## [1.0.5] 2024-05-12
+### Changed
+- Tweaked find match highlighting
+- Tweaked selected text highlighting
+
 ## [1.0.4] 2024-05-12
 ### Changed
 - Tweaked find match highlighting
