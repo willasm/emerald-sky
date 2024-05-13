@@ -2,20 +2,13 @@
 
 <!-- ## [v-inc] ${YEAR4}-${MONTHNUMBER}-${DATE} -->
 
-## [1.0.5] 2024-05-12
+## [1.0.6] 2024-05-13
 ### Changed
 - Tweaked find match highlighting
 - Tweaked selected text highlighting
 
-## [1.0.4] 2024-05-12
-### Changed
-- Tweaked find match highlighting
-- Tweaked selected text highlighting
-- Tweaked panels highlighting
-- Tweaked sidebar highlighting
-
-### Added
-- Fixed Readme badges
+### Removed
+- Removed old version info from release.md file
 
 
 For a full list of changes, please see the projects [Changelog](CHANGELOG.md) file.

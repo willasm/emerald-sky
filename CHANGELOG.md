@@ -12,6 +12,14 @@
 
 <!-- ## [v-inc] ${YEAR4}-${MONTHNUMBER}-${DATE} -->
 
+## [1.0.6] 2024-05-13
+### Changed
+- Tweaked find match highlighting
+- Tweaked selected text highlighting
+
+### Removed
+- Removed old version info from release.md file
+
 ## [1.0.5] 2024-05-12
 ### Changed
 - Tweaked find match highlighting
